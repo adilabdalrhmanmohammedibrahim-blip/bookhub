@@ -1,0 +1,14 @@
+   const books = [
+     {
+       id: 1,
+       title: "Clean Code",
+       author: "Robert C. Martin",
+       category: "Programming",
+       image: "/images/clean-code.jpg",
+     },
+     // ...the other four
+   ];
+
+   export default books
+
+
