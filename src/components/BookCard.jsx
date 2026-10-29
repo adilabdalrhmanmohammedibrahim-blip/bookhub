@@ -12,5 +12,3 @@
        </div>
      );
    }
-
-   export default BookCard;

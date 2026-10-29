@@ -8,7 +8,10 @@
    function App() {
      return (
        <>
+       
          <Navbar
+            logo="/images/logo.png"
+            logoAlt="BookHub logo"
            brand="BookHub"
            links={navLinks}
            searchPlaceholder="Search books..."
@@ -19,16 +22,20 @@
            headline="Discover Great Books"
            tagline="Read. Learn. Grow."
            buttonLabel="Browse Books"
-           image="/images/hero.png"
+           image="/images/Gemini_Generated_Image_atsjswatsjswatsj.jpeg"
            imageAlt="Stack of books next to a plant"
          />
          <BookList
            heading="Featured Books"
            books={books}
            buttonLabel="View Details"
+
+           
          />
        </>
      );
    }
 
    export default App;
+
+   
