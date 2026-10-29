@@ -12,3 +12,4 @@
        </div>
      );
    }
+   export default BookCard;
