@@ -5,7 +5,7 @@
        title: "Clean Code",
        author: "Robert C. Martin",
        category: "Programming",
-       image: "/images/clean-code.jpg",
+       image: "/images/Pasted image.png",
      },
           {
        id: 2,
