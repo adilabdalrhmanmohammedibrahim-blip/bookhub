@@ -10,7 +10,7 @@
        <>
        
          <Navbar
-            logo="/images/logo.png"
+            logo="/images/1.png"
             logoAlt="BookHub logo"
            brand="BookHub"
            links={navLinks}
